@@ -1,0 +1,33 @@
+td {
+	font-size: 18px;
+}
+
+h1	{
+	font-family: 'Amethysta', serif; 
+	color:#b70101;
+	font-weight: bolder;
+	text-decoration: underline;
+	font-size: 40px;
+}
+
+.header {
+	padding-top: 50px;
+}
+
+h2	{
+	color:#b70101;
+	font-family: 'Amethysta', serif;
+	text-decoration: bold;
+}
+
+#subhead {
+	color:#6E6A5B;
+}
+
+.page-footer {
+	background-color: #E7D9C1;
+}
+
+.intense {
+	height: 125px;
+}
